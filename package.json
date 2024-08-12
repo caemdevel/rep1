@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/caemdevel/rep1/issues"
   },
-  "homepage": "https://github.com/caemdevel/rep1#readme"
+  "homepage": "https://github.com/caemdevel/rep1#readme",
+  "dependencies": {
+    "fs-extra": "10.1.0",
+    "github-webhook-handler": "0.7.1",
+    "marked": "1.2.9",
+    "signals": "1.0.0"
+  }
 }
