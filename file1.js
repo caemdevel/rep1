@@ -1,2 +1,3 @@
-console.log('file1');
 console.log('init');
+
+console.log('processing data');
